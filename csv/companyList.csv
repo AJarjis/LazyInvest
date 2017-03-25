@@ -1,0 +1,12 @@
+Ticker,Company Name,Price,Volatility Rate,Sustainably?,Location,Industry
+APPL,Apple,140,0.25,Yes,USA,Technology
+GOOGL,Google,835,0.34,Yes,USA,Technology
+FB,Facebook,140,0.45,No,USA,Technology
+BOE,Boeing,176,0.03,No,USA,Flight
+GPRO,GoPro,8,0.45,No,USA,Camera
+SNAP,Snap Inc,23,0.56,Yes,USA,Technology
+TSLA,Tesla,260,0.78,Yes,USA,Motors
+TSCO,Tesco,190,0.89,No,UK,Shopping
+AMZN,Amazon,850,0.68,Yes,USA,Shopping
+BARC,Barclays,226,0.46,Yes,UK,Banking
+LLOY,Lloyds,70,0.35,Yes,UK,Banking

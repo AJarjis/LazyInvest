@@ -10,7 +10,8 @@
 </head>
     
 <body>
-    <div class="wrapper">
+<!-- <?php echo '<pre>'; print_r($data); echo '</pre>';?>
+ -->    <div class="wrapper">
         <h1>Lazy Invest</h1>
         <form id="investForm" name="investForm" action="index.php" method="post">
             <div class="question">
