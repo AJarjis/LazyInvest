@@ -12,6 +12,6 @@
 <body>
     <div class="wrapper">
         <h1>Lazy Invest</h1>
-        
+    
     </div>
 </body>
