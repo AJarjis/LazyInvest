@@ -46,16 +46,21 @@ a:hover, a:focus, input[type=submit]:hover, input[type=submit]:focus {
 }
 
 form p {
-    margin-bottom: 0.5%;
+    margin-bottom: 1%;
     display: block;
 }
 
-form input, textarea {
+form input, select {
     clear: both;
     display: block;
     margin: 0 auto 3% auto;
     border: 1px solid #000000;
     padding: 1%;
+    width: 30em;
+}
+
+select {
+    width: 31.5em;
 }
 
 button, input[type=submit] {
@@ -88,9 +93,9 @@ form {
 input[type=checkbox]
 {
   /* Double-sized Checkboxes */
-  -ms-transform: scale(2); /* IE */
-  -moz-transform: scale(2); /* FF */
-  -webkit-transform: scale(2); /* Safari and Chrome */
-  -o-transform: scale(2); /* Opera */
+  -ms-transform: scale(1.5); /* IE */
+  -moz-transform: scale(1.5); /* FF */
+  -webkit-transform: scale(1.5); /* Safari and Chrome */
+  -o-transform: scale(1.5); /* Opera */
   padding: 10px;
 }

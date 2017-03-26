@@ -75,6 +75,6 @@
     }
 
     // Test string - DELETE ME AT SOME POINT
-    print($FB->toString());
+    //print($FB->toString());
 
 ?>
