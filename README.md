@@ -1,5 +1,5 @@
 # LazyInvest
-## What is does?
+## What it does?
 LazyInvest is a in development  web application that would ask the user to input their preferences when it comes to investing and based on those responses would recommend stocks for them to invest. 
 
 ## So does it work?
